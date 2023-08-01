@@ -20,17 +20,7 @@
     width: 50px;
     height: 50px;
 }
-#aa:hover{
-    color:white;
-    background-color: orange;
-}
-#aa{
-    color:orange;
-    border-color: orange;
-    background-color: white;
-    font-size: 20px;
-    font-weight:bolder;
-}
+
 #bb{
     font-size: 20px;
 }
@@ -85,3 +75,127 @@
     border-bottom: 3px solid transparent;
     border-top: 3px solid #79A70A;
  }
+
+#dd{
+    font-size: 16px;
+    word-spacing: 4px;
+}
+#qello{
+    background-color:#EC6B4A;
+}
+.footer {
+	height: 72px; 
+	display: flex;
+	align-items: center;
+} 
+.footer_links a { 
+	font-size: 18px; 
+	color: #FFF; 
+	padding: 0 20px;
+	
+}  
+.footer_right h6 { 
+	font-size: 18px; 
+	color: #FFF; 
+	margin-bottom: 0;
+	
+}
+.footer_part {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+#ee{
+    color:#FFF;
+    text-decoration: none;
+}
+
+
+/* #aa:hover{
+    color:white;
+    background-color: orange;
+}
+#aa{
+    color:orange;
+    border-color: orange;
+    background-color: white;
+    font-size: 20px;
+    font-weight:bolder;
+} */
+
+#aa{
+        /* display: block; */
+        width: 200px;
+        height: 60px;
+        line-height: 30px;
+        font-size: 18px;
+        font-family: sans-serif;
+        text-decoration: none;
+        color: orange;
+        border:1px solid orange;
+        letter-spacing: 2px;
+        text-align: center;
+        position: relative;
+        transition: all .35s;
+}
+
+
+#aa #ff{
+    position: relative;
+    z-index: 2;
+  }
+
+  #aa:after{
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background:orange;
+    transition: all .35s;
+  }
+
+#aa:hover{
+    color: #fff;
+  }
+  
+#aa:hover:after{
+    width: 100%;
+  }
+
+#hh{
+    width: 250px;
+    height: 65px;
+    line-height: 30px;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: orange;
+    border:1px solid orange;
+    letter-spacing: 2px;
+    text-align: center;
+    position: relative;
+    transition: all .35s;
+}  
+#hh #gg{
+    position: relative;
+    z-index: 2;
+}
+#hh:after{
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background:orange;
+    transition: all .35s;
+  }
+#hh:hover{
+    color: #fff;
+  }
+  
+#hh:hover:after{
+    width: 100%;
+  }
