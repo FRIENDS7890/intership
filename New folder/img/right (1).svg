@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="197" height="512" viewBox="0 0 197 512">
+  <defs>
+    <image id="image" width="11" height="15" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAPCAYAAAAyPTUwAAABQWlDQ1BJQ0MgUHJvZmlsZQAAKJFjYGASSCwoyGFhYGDIzSspCnJ3UoiIjFJgf8bAyMDGwMkgx8CYmFxc4BgQ4ANUwgCjUcG3a0DVQHBZF2TWwl1L6hZEK/6vvVgS6+Ir+xlTPQrgSkktTgbSf4A4KbmgqISBgTEByFYuLykAsVuAbJEioKOA7BkgdjqEvQbEToKwD4DVhAQ5A9lXgGyB5IzEFCD7CZCtk4Qkno7EhtoLAhzBRiZBZqYVBJxKOihJrSgB0c75BZVFmekZJQqOwBBKVfDMS9bTUTAyMDJiYACFN0T15xvgcGQU40CI1QHD2w7oZobpCLGQFwwMq0OBXs5HiCkvYmAQy2Bg2KdekFiUCHcA4zeW4jRjIwibezsDA+u0//8/hzMwsGsyMPy9/v//7+3///9dxsDAfIuB4cA3AKgDXpV6Dib4AAAAOGVYSWZNTQAqAAAACAABh2kABAAAAAEAAAAaAAAAAAACoAIABAAAAAEAAAALoAMABAAAAAEAAAAPAAAAAFf23vwAAAEySURBVCgVY2BAA6GPj3EmXLs6HU0YzGVEFky+elXoH9O/rQwMjBb/GZgVF2hqPkCWZ4Jx0u6e4Qcq3A1SCBJjYviTAJOD0WDFDf//M/3+xb4GqNAIJvGfgbE0/upVbRgfRIMVP7x+NR+o0AVZAsjmYmL8vzHl9kUZmDhjwvnzAoycrPcZ/jMIwATR6NM8LOy2k1VVfzIxsLNG4VEI0mf6+c+vbBCDiZGRMQDEwAeAQZYAkmdMvH71FQPDf1F8ikFyTP8YhYEe/A/0HMMNQor/svwVg0dK0q1LSv//MVoB3W8DtNAfqFkC2QBGhn9WcMXIEqBwf3jjaixQrAWIwUH3n+GfHlbFMI2Jt8+JMv5h3/6f4b8x638mKZg4Tjrl8mXxxOtXgPHwH6/BcAOSblw2AXEAQ4pZdFeExfAAAAAASUVORK5CYII="/>
+  </defs>
+  <g id="Group_23214" data-name="Group 23214" transform="translate(-1499 -200)">
+    <use id="Image_2" data-name="Image 2" transform="translate(1499 384)" xlink:href="#image"/>
+    <use id="Image_4" data-name="Image 4" transform="translate(1685 200)" xlink:href="#image"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="6" cy="6" r="6" transform="translate(1548 700)" fill="#f15d52"/>
+  </g>
+</svg>
